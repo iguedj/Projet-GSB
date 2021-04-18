@@ -11,7 +11,7 @@ package Entity;
  */
 public class Labo {
     
-    private int codeLabo;
+    private int codeLabo ;
     private String nomLabo, chefLabo;
 
     public Labo(String nomLabo) {
